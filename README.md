@@ -7,7 +7,7 @@
 **Northeastern University's College of Science, Boston, USA**  
 *Master of Science in Applied Mathematics* | Jan 2026 -
 - Data Science Concentration
-- Relevant Coursework: Algorithms | Machine Learning and Statistical Learning Theory 1 | Introduction to Mathematical Methods and Modeling
+- Relevant Coursework: Probability (in progress) | Algorithms | Machine Learning and Statistical Learning Theory 1 | Introduction to Mathematical Methods and Modeling
 
 **Northeastern University's College of Science, Boston, USA**  
 *Bachelor of Science in Pharmaceutical Sciences* | Sept 2019 - May 2025
