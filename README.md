@@ -10,7 +10,7 @@
 - Relevant Coursework: Probability (in progress) | Algorithms | Machine Learning and Statistical Learning Theory 1 | Introduction to Mathematical Methods and Modeling
 
 **Northeastern University's College of Science, Boston, USA**  
-*Bachelor of Science in Pharmaceutical Sciences* | Sept 2019 - May 2025
+*Bachelor of Science in Pharmaceutical Sciences* | Dec 2025
 - Minors in Math, Data Science, and Japanese
 - Relevant Coursework: Fundamentals of Computer Science 1 & 2 | Discrete Structures | Introduction to Databases | Foundations of Data Science | Multivariate Calculus | Linear Algebra | Differential Equations | Probability & Statistics | Statistics & Stochastic Processes | Matrix Methods in Data Analysis & Machine Learning
 
